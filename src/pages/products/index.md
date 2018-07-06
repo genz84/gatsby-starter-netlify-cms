@@ -1,20 +1,16 @@
 ---
 templateKey: product-page
 title: Page de test contenu éditable
-image: /img/img_20170417_191205.jpg
+image: /img/fond_header_01.jpg
 heading: Contenu éditable par backoffice
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Description éditable
 intro:
   blurbs:
-    - image: /img/img_20170417_191531.jpg
+    - image: /img/ferrari.jpg
       text: |
         VIGNETTE 1
         Texte et image éditable côté back, design dans le dur.
-    - image: /img/img_20170804_182706.jpg
+    - image: /img/renault.jpg
       text: >
         VIGNETTE 2
 
@@ -22,10 +18,10 @@ intro:
         cui nos obsecuturos iunxerat imperiale praeceptum, dispicere litis
         exitialis certamina cogebatur abnuens et reclamans, adulatorum
         oblatrantibus turmis, bellicosus 
-    - image: /img/img_20170804_182706.jpg
+    - image: /img/ferrari.jpg
       text: |
         VIGNETTE 3
-    - image: /img/img_20170417_191531.jpg
+    - image: /img/renault.jpg
       text: |
         VIGNETTE 4
         Possibilité d'ajouter autant de vignettes qu'on veut
@@ -52,19 +48,19 @@ main:
     longe discretus, 
   image1:
     alt: Image 1
-    image: /img/img_20170804_182706.jpg
+    image: /img/ventoux.jpg
   image2:
     alt: Image 2
-    image: /img/img_20170417_191531.jpg
+    image: /img/luberon.jpg
   image3:
     alt: image 3
-    image: /img/img_20170417_191205.jpg
+    image: /img/alpilles.jpg
 testimonials:
   - author: Jweb
     quote: C'est super cool !
   - author: Greg
     quote: Ca va super vite !
-full_image: /img/img_20170417_191205.jpg
+full_image: /img/home_un_ban.jpg
 pricing:
   heading: Design tarifs
   description: Ici j'écris ce que je veux !
